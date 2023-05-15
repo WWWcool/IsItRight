@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-GetItRight-1.0";
 const contentToCache = [
     "Build/IsItRightYarus.loader.js",
-    "Build/IsItRightYarus.framework.js.unityweb",
-    "Build/IsItRightYarus.data.unityweb",
-    "Build/IsItRightYarus.wasm.unityweb",
+    "Build/IsItRightYarus.framework.js",
+    "Build/IsItRightYarus.data",
+    "Build/IsItRightYarus.wasm",
     "TemplateData/style.css"
 
 ];
